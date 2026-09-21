@@ -1,6 +1,7 @@
 ---
 title: "Participants"
 url: "/participants/"
+type: "participants"
 ---
 
 <!-- wp:gallery {"ids":[64,1434,1465,1706,1597,1462,1835],"columns":7,"ampLightbox":false} -->

@@ -1,8 +1,16 @@
 {{- $items := . -}}
 {{- if gt (len $items) 0 -}}
-<section class="ecoregion-grid" aria-label="Ecoregion tiles">
+<section class="ecoregion-list" aria-label="Ecoregions">
   {{- range $items }}
-    {{ partial "tile-card.html" (dict "href" .href "image" .image "title" .title "summary" .description) }}
+    <article class="ecoregion-item">
+      <a class="ecoregion-item__media" href="{{ .href }}" aria-label="View sites in {{ .title }}">
+        <img src="{{ .image }}" alt="{{ .title }}">
+      </a>
+      <div class="ecoregion-item__content">
+        <h3><a href="{{ .href }}">{{ .title }}</a></h3>
+        <p>{{ .description }}</p>
+      </div>
+    </article>
   {{- end }}
 </section>
 {{- end -}}
