@@ -1,0 +1,33 @@
+baseURL: 'https://acousticobservatory.org/'
+languageCode: en-au
+title: Australian Acoustic Observatory | A2O
+refLinksErrorLevel: ERROR
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  description: >-
+    Australian Acoustic Observatory (A2O) is a continental-scale acoustic sensor
+    network, recording for a five-year period across multiple Australian
+    ecosystems.
+menu:
+  main:
+    - name: About the A2O
+      url: /home_1/
+      weight: 10
+    - name: Data
+      url: /data/
+      weight: 20
+    - name: Research
+      url: /use-cases/
+      weight: 30
+    - name: Media
+      url: /publications-and-media/media/
+      weight: 40
+    - name: Blog
+      url: /blog-2/
+      weight: 50
+    - name: Contact
+      url: /contact/
+      weight: 60
