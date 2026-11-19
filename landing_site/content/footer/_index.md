@@ -49,13 +49,13 @@ supporters:
   - label: Open Ecoacoustics
     href: https://openecoacoustics.org/
     image: /images/oe_logo.svg
-  - label: ARDC
-    href: https://ardc.edu.au/
-    image: /images/ardc_logo.svg
   - label: TERN
     href: https://www.tern.org.au/
     image: /images/tern_logo.png
     logo_shape: compact
+  - label: ARDC
+    href: https://ardc.edu.au/
+    image: /images/ardc_logo.svg
   - label: NCRIS
     href: https://www.education.gov.au/ncris
     image: /images/ncris_logo.svg
