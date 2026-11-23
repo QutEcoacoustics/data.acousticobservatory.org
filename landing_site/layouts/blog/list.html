@@ -13,7 +13,10 @@
           {{ partial "post-meta.html" . }}
         </header>
         <div class="entry-content">
-          {{ .Content }}
+          {{ .Summary }}
+          {{ if .Truncated }}
+            <p class="blog-post__read-more"><a href="{{ .RelPermalink }}">Read more &raquo;</a></p>
+          {{ end }}
         </div>
       </article>
     {{ else }}
