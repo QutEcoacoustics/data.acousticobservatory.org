@@ -6,7 +6,6 @@
   --ink-strong: #111827;
   --brand: #304f3b;
   --button-hover: color-mix(in oklab, var(--brand), black 20%);
-  --button-light: #d9d9d9;
   --border: #d8dfe7;
   --dark: #202a3b;
   --dark-muted: #2c3544;
