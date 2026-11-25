@@ -22,6 +22,6 @@ images:
   - "/wp-content/uploads/2019/10/IMG_20190724_153205225.jpg"
 ---
 
-The A2O is currently recording the sounds of the [Mitchell Grass Plains](/sites/mitchell-grass-rangeland-59/), ranging from the calls of arid bird species to the lowing of wandering cattle. Acoustic sensors have been deployed across an actively grazed research station affiliated with [QUT](https://www.qut.edu.au/) and the [Terrestrial Ecosystem Research Network](https://supersites.tern.org.au/) outside of Longreach in western Queensland.
+The A2O is currently recording the sounds of the [Mitchell Grass Plains](/sites/mitchell-grass-rangeland-59/), from the calls of arid bird species to the lowing of wandering cattle. Acoustic sensors have been deployed across an actively grazed research station affiliated with [QUT](https://www.qut.edu.au/) and the [Terrestrial Ecosystem Research Network](https://supersites.tern.org.au/) outside Longreach in western Queensland.
 
 {{< image-mosaic >}}

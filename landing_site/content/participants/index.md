@@ -23,7 +23,7 @@ type: "participants"
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A2O participants include universities, National Parks and other government bodies, the Terrestrial Ecosystem Research Network (TERN), Traditional Owners, the Australian Wildlife Conservancy (AWC), Bush Heritage Australia (BHA), Birdlife Australia, the Tasmanian Land Conservancy, and other private conservation organisations, and several private landholders.</p>
+<p>A2O participants include universities, national parks and other government bodies; the Terrestrial Ecosystem Research Network (TERN); Traditional Owners; the Australian Wildlife Conservancy (AWC); Bush Heritage Australia (BHA); BirdLife Australia; the Tasmanian Land Conservancy; other private conservation organisations; and private landholders.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -33,11 +33,11 @@ type: "participants"
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3>Participate in A20</h3>
+<h3>Participate in the A2O</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-background has-very-light-gray-background-color">The A2O provides an opportunity for land owners and managers to  become involved in a nationally significant scientific project that will  expand the understanding of Australia’s rich and diverse ecosystems. If you would like to become involved, please <a href="/contact/"><strong>contact</strong></a> the Australian Acoustic  Observatory (A2O). For a summary of the A2O project, please download the <a href="/wp-content/uploads/2018/12/australian-acoustic-observatory-brochure_dec20181.pdf"><strong>A2O brochure</strong></a>.</p>
+<p class="has-background has-very-light-gray-background-color">The A2O gives landowners and managers the opportunity to participate in a nationally significant scientific project that will expand our understanding of Australia’s rich and diverse ecosystems. To get involved, please <a href="/contact/"><strong>contact</strong></a> the Australian Acoustic Observatory (A2O). For a summary of the project, download the <a href="/wp-content/uploads/2018/12/australian-acoustic-observatory-brochure_dec20181.pdf"><strong>A2O brochure</strong></a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

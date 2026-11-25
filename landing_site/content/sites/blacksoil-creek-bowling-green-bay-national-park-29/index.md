@@ -12,7 +12,7 @@ images:
   - /wp-content/uploads/2021/08/Sensor-setup-341-4-rotated.jpg
   - /wp-content/uploads/2021/08/South-300-7-rotated.jpg
 ecoregion: "Tropical and subtropical moist broadleaf forests"
-summary: "Bowling Green Bay National Park covers 57,900ha of coastal and mountainous country, ranging from mangroves to montane rainforests. The national park includes a Ramsar listed wetland protecting significant habitat for waterfowl. During summer at least 30 different species of birds migrate to the park from around the world."
+summary: "Bowling Green Bay National Park covers 57,900 ha of coastal and mountainous country, ranging from mangroves to montane rainforests. The national park includes a Ramsar-listed wetland that provides significant habitat for waterfowl. At least 30 bird species migrate to the park each summer."
 ---
 
 > **Access Site 29 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/29).**
@@ -27,6 +27,6 @@ summary: "Bowling Green Bay National Park covers 57,900ha of coastal and mountai
 | Site location | North Queensland |
 | Latitude | -19.458 |
 | Longitude | 146.993 |
-| Site description | Bowling Green Bay National Park covers 57,900ha of coastal and mountainous country, ranging from mangroves to montane rainforests. The national park includes a Ramsar listed wetland protecting significant habitat for waterfowl. During summer at least 30 different species of birds migrate to the park from around the world. |
+| Site description | Bowling Green Bay National Park covers 57,900 ha of coastal and mountainous country, ranging from mangroves to montane rainforests. The national park includes a Ramsar-listed wetland that provides significant habitat for waterfowl. At least 30 bird species migrate to the park each summer. |
 
 {{< image-mosaic >}}

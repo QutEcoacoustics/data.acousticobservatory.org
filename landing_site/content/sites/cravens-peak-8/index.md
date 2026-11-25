@@ -8,7 +8,7 @@ point_ids:
   - 31
   - 32
 ecoregion: "Deserts and xeric shrublands"
-summary: "Cravens Peak protects gibber plains, red sandy dune fields, semi-permanent waterholes, Coolabah woodlands, and one of the richest reptile assemblages on earth. Craven Peak supports a range of animal and plant species including the Grey Falcon, Painted Finch, Spinifex Pigeon, Ridge-tailed Monitor, Pituri, Mulga, and Red-bud Mallee"
+summary: "Cravens Peak protects gibber plains, red sandy dune fields, semi-permanent waterholes, Coolabah woodlands and one of the richest reptile assemblages on Earth. Cravens Peak supports a range of animal and plant species, including the Grey Falcon, Painted Finch, Spinifex Pigeon, Ridge-tailed Monitor, Pituri, Mulga and Red-bud Mallee."
 ---
 
 > **Access Site 8 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/8).**
@@ -23,4 +23,4 @@ summary: "Cravens Peak protects gibber plains, red sandy dune fields, semi-perma
 | Site location | Far Western Queensland |
 | Latitude | -23.205 |
 | Longitude | 138.416 |
-| Site description | Cravens Peak protects gibber plains, red sandy dune fields, semi-permanent waterholes, Coolabah woodlands, and one of the richest reptile assemblages on earth. Craven Peak supports a range of animal and plant species including the Grey Falcon, Painted Finch, Spinifex Pigeon, Ridge-tailed Monitor, Pituri, Mulga, and Red-bud Mallee |
+| Site description | Cravens Peak protects gibber plains, red sandy dune fields, semi-permanent waterholes, Coolabah woodlands and one of the richest reptile assemblages on Earth. Cravens Peak supports a range of animal and plant species, including the Grey Falcon, Painted Finch, Spinifex Pigeon, Ridge-tailed Monitor, Pituri, Mulga and Red-bud Mallee. |

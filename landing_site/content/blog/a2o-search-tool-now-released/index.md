@@ -13,7 +13,7 @@ aliases:
 
 In collaboration with Google Research, we have released a new tool: [A2O Search](https://search.acousticobservatory.org/).
 
-With [A2O Search](https://search.acousticobservatory.org/), you can do a similarity search for any audio clip you upload. We’ll then compare it to data on the A2O and return to you a grid of results.
+With [A2O Search](https://search.acousticobservatory.org/), you can run a similarity search using any audio clip you upload. We’ll compare it with the A2O data and return a grid of results.
 
 Check out [the blog post from Google researcher Tom Denton](https://blog.google/intl/en-au/company-news/technology/a2o-search/) for more on how the search tool works.
 

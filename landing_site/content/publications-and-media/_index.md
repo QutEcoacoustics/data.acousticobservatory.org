@@ -4,7 +4,7 @@ url: "/publications-and-media/"
 ---
 
 <!-- wp:paragraph -->
-<p>From scholarly publications to deployment resources and media articles, the A2O provides a range of resources to support scientific and cross-disciplinary research, citizen science, or anyone with an interest in this emerging field and Australia’s fragile and mega-diverse environment.</p>
+<p>From scholarly publications to deployment resources and media articles, the A2O offers resources for scientific and cross-disciplinary research, citizen science, and anyone interested in ecoacoustics and Australia’s biodiversity.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":29} -->

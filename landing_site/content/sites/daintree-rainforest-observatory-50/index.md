@@ -14,7 +14,7 @@ images:
   - /wp-content/uploads/2019/06/DSC02008_Logos.jpg
   - /wp-content/uploads/2019/06/dro_1.jpg
 ecoregion: "Tropical and subtropical moist broadleaf forests"
-summary: "The Daintree Rainforest Observatory (DRO) is located 120 km north of Cairns on Cape Tribulation. The site hosts part of the Daintree Rainforest SuperSite for the Terrestrial Ecosystem Research Network .The DRO is comprised of long-term monitoring sites, a canopy crane and extensive researcher and teaching infrastructure. The DRO is situated adjacent to the World Heritage listed Daintree National Park, and home to many endemic tropical plant and animal species."
+summary: "The Daintree Rainforest Observatory (DRO) is located 120 km north of Cairns on Cape Tribulation. The site hosts part of the Daintree Rainforest SuperSite for the Terrestrial Ecosystem Research Network. The DRO includes long-term monitoring sites, a canopy crane and extensive research and teaching infrastructure. It is situated adjacent to the World Heritage-listed Daintree National Park and is home to many endemic tropical plant and animal species."
 ---
 
 > **Access Site 50 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/50).**
@@ -29,6 +29,6 @@ summary: "The Daintree Rainforest Observatory (DRO) is located 120 km north of C
 | Site location | Far North Queensland |
 | Latitude | -16.106 |
 | Longitude | 145.378 |
-| Site description | The Daintree Rainforest Observatory (DRO) is located 120 km north of Cairns on Cape Tribulation. The site hosts part of the Daintree Rainforest SuperSite for the Terrestrial Ecosystem Research Network .The DRO is comprised of long-term monitoring sites, a canopy crane and extensive researcher and teaching infrastructure. The DRO is situated adjacent to the World Heritage listed Daintree National Park, and home to many endemic tropical plant and animal species. |
+| Site description | The Daintree Rainforest Observatory (DRO) is located 120 km north of Cairns on Cape Tribulation. The site hosts part of the Daintree Rainforest SuperSite for the Terrestrial Ecosystem Research Network. The DRO includes long-term monitoring sites, a canopy crane and extensive research and teaching infrastructure. It is situated adjacent to the World Heritage-listed Daintree National Park and is home to many endemic tropical plant and animal species. |
 
 {{< image-mosaic >}}

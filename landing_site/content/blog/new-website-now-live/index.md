@@ -23,6 +23,6 @@ The brand new [A2O front end website for the data portal](https://data.acoustico
 
 {{< figure src="/wp-content/uploads/2021/11/Screenshot-36.png" >}}
 
-The A2O data portal is faster than the previous version and will allow changes to be made more easily and quickly in the future. These future changes will include the capability to download original audio files, allowing data to be citable with DOIs, annotations will be made exportable to the Atlas of Living Australia, and the listen and annotation tools will be completely rebuilt.
+The A2O data portal is faster than the previous version and will allow changes to be made more easily and quickly in the future. Planned improvements include the ability to download original audio files, making the data citable with DOIs; export annotations to the Atlas of Living Australia; and completely rebuild the listening and annotation tools.
 
 Many thanks for your patience as these updates have been implemented. Please feel free to explore the new site and look out for further improvements in the coming months.

@@ -28,6 +28,6 @@ image_layout:
   - [[4]]
 ---
 
-There are now four acoustic sensors deployed across QUT’s [Samford Ecological Research Facility](/sites/samford-ecological-research-facility-64/), found on the outskirts of Brisbane, Queensland. SERF is a 51 hectare property that protects threatened and endangered ecosystems within a mosaic of remnant native vegetation and cleared pasture. The facility is home to a wide range of audible species, including Australia’s largest nocturnal bird, the Powerful Owl (*Ninox strenua*).
+There are now four acoustic sensors deployed across QUT’s [Samford Ecological Research Facility](/sites/samford-ecological-research-facility-64/) on the outskirts of Brisbane, Queensland. SERF is a 51-hectare property that protects threatened and endangered ecosystems within a mosaic of remnant native vegetation and cleared pasture. The facility is home to a wide range of vocal wildlife, including Australia’s largest nocturnal bird, the Powerful Owl (*Ninox strenua*).
 
 {{< image-mosaic >}}

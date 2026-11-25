@@ -25,9 +25,9 @@ images:
   - "/wp-content/uploads/2019/11/a20_night-bird_citsci_25112019.png"
 ---
 
-We need your help to search for night fauna at QUT’s Samford Ecological Research Facility.
+We need your help to search for nocturnal wildlife at QUT’s Samford Ecological Research Facility.
 
-By finding as many vocalisations of Powerful Owls, Southern Boobooks and Bush-stone Curlews as you can, you will not only help give a better understanding of the presence of these wonderful animals at Samford, but you will also contribute valuable data that will help us build powerful tools to make the task of conducting acoustic ecological surveys easier.
+By finding as many calls from Powerful Owls, Southern Boobooks and Bush-stone Curlews as you can, you will help us understand whether these animals are present at Samford. You will also contribute valuable data to help us build tools that make acoustic ecological surveys easier.
 
 Visit [https://data.acousticobservatory.org/citsci/night-birds/](https://data.acousticobservatory.org/citsci/night-birds) to get started!
 

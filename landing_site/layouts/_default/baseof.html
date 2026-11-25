@@ -7,17 +7,21 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
-  {{- $sources := slice
-    (resources.Get "css/design-system.css")
-    (resources.Get "css/home.css")
-    (resources.Get "css/typography.css")
-    (resources.Get "css/footer.css")
-  }}
-  {{- $css := $sources | resources.Concat "css/site.css" }}
-  {{- if hugo.IsProduction }}
-    {{- $css = $css | minify | fingerprint | resources.PostProcess }}
-  {{- end }}
-  <link href="{{ $css.RelPermalink }}" rel="stylesheet">
+
+  {{ $css := resources.Get "css/main.css" }}
+  {{- $css = $css | resources.ExecuteAsTemplate "css/main.css" . | css.Build }}
+
+  {{- with  $css }}
+    {{- if eq hugo.Environment "development" }}
+      {{- with . | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}">
+      {{- end }}
+    {{- else }}
+      {{- with . | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      {{- end }}
+    {{- end }}
+{{- end }}
 </head>
 <body>
   {{ partial "header.html" . }}

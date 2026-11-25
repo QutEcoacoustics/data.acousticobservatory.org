@@ -8,7 +8,7 @@ url: "/data/data-submission-and-usage-terms/"
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Queensland University of Technology (QUT) and the Participating Organisations are conducting a research project titled <em>Australian Acoustic Observatory: A Network to Monitor Biodiversity </em>which  involves, amongst other things, the collection and procession of Data  from a network of reference sites around Australia. The project has  received funding from the Australian Research Council (ARC). Your  submission and/or usage of the Data is governed in accordance with these  terms. By submitting, accessing and/or using the Data in any way, you  agree that you (or the organisation/entity in which you are acting on  behalf of) will comply with these terms. </p>
+<p>Queensland University of Technology (QUT) and the Participating Organisations are conducting a research project titled <em>Australian Acoustic Observatory: A Network to Monitor Biodiversity</em>, which involves, among other things, the collection and processing of Data from a network of reference sites around Australia. The project has received funding from the Australian Research Council (ARC). Your submission and/or use of the Data is governed by these terms. By submitting, accessing and/or using the Data in any way, you agree that you (or the organisation/entity on whose behalf you are acting) will comply with these terms.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -66,7 +66,7 @@ Data, including any warranty or representation that the Data:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Your right to use the Data continues for as long as you follow these  and the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener" aria-label="CC BY 4 (opens in a new tab)">CC BY 4</a> license terms. If you breach the terms, your licence is  revoked and you must immediately cease using the Data (in any format). </p>
+<p>Your right to use the Data continues for as long as you comply with these terms and the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener" aria-label="CC BY 4 (opens in a new tab)">CC BY 4</a> licence terms. If you breach the terms, your licence is revoked and you must immediately cease using the Data (in any format).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -184,7 +184,7 @@ purpose of the project, including without limitation acoustic, image, and other 
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Birdlife Australia Ltd</li>
+<li>BirdLife Australia Ltd</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

@@ -1,5 +1,5 @@
 ---
-title: "Sites and Map"
+title: "Sites and map"
 url: "/sites/"
 ---
 
@@ -44,24 +44,15 @@ url: "/sites/"
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Firstly,  it is necessary that there is a wide geographical spread of locations  across the continent. This spread ensures that there is a broad  representative distribution of sites within the seven major ecoregions.</p>
+<p>First, sites need to be spread widely across the continent. This ensures a broad, representative distribution across the seven major ecoregions.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Secondly,
- sites need to represent a range of habitats at a fine scale. This is 
-particularly important for sensor establishment as their site-level 
-positions are determined by wet and dry conditions, and linked to the 
-associated changes in flora and fauna.</p>
+<p>Second, sites need to represent a range of habitats at a fine scale. This is particularly important when positioning sensors, which are placed according to wet and dry conditions and the associated changes in flora and fauna.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Finally,
- site locations are determined by the enthusiasm and goodwill of all 
-participating groups and individuals. It is essential that equipment is 
-deployed and maintained, and data is collected over the duration of the 
-project. These requirements can only be met with the cooperation and 
-support of all involved. </p>
+<p>Finally, site locations depend on the enthusiasm and goodwill of participating groups and individuals. Equipment must be deployed and maintained, and data must be collected throughout the project. These requirements can only be met with the cooperation and support of everyone involved.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

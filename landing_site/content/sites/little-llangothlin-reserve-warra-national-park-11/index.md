@@ -12,7 +12,7 @@ images:
   - /wp-content/uploads/2021/04/3-South-2019-11-05-11.07.14.jpg
   - /wp-content/uploads/2021/04/3-East-2019-11-05-12.42.38.jpg
 ecoregion: "Temperate broadleaf and mixed forests"
-summary: "Little Llangothlin Reserve is a RAMSAR site and a drought refugia with permanent water. Nearby Warra National Park has sphagnum moss areas, and endangered New England Peppermint (Eucalyptus nova-anglica) woodland."
+summary: "Little Llangothlin Reserve is a Ramsar site and a drought refuge with permanent water. Nearby Warra National Park contains sphagnum moss areas and endangered New England Peppermint (Eucalyptus nova-anglica) woodland."
 ---
 
 > **Access Site 11 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/11).**
@@ -27,6 +27,6 @@ summary: "Little Llangothlin Reserve is a RAMSAR site and a drought refugia with
 | Site location | Central eastern New South Wales |
 | Latitude | -30.085 |
 | Longitude | 151.782 |
-| Site description | Little Llangothlin Reserve is a RAMSAR site and a drought refugia with permanent water. Nearby Warra National Park has sphagnum moss areas, and endangered New England Peppermint (Eucalyptus nova-anglica) woodland. |
+| Site description | Little Llangothlin Reserve is a Ramsar site and a drought refuge with permanent water. Nearby Warra National Park contains sphagnum moss areas and endangered New England Peppermint (Eucalyptus nova-anglica) woodland. |
 
 {{< image-mosaic >}}

@@ -44,7 +44,7 @@ url: "/use-cases/"
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>In partnership with Bush Heritage Australia, I am investigating patterns of biodiversity across land use types</p>
+<p>In partnership with Bush Heritage Australia, I am investigating patterns of biodiversity across land-use types.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:jetpack/contact-info -->
@@ -78,7 +78,7 @@ url: "/use-cases/"
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>Using the Australian Acoustic Observatory website, I have been able to detect and analyze the activity of pink cockatoos at various sites across their distribution in Queensland and New South Wales. This research aims to understand how their activity correlates with different environmental factors, providing insights into their behavioral patterns and habitat preferences.</p>
+<p>Using the Australian Acoustic Observatory website, I have been able to detect and analyse the activity of pink cockatoos at various sites across their distribution in Queensland and New South Wales. This research aims to understand how their activity correlates with different environmental factors, providing insights into their behavioural patterns and habitat preferences.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

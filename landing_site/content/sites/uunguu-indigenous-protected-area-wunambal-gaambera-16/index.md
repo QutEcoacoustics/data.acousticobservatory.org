@@ -11,7 +11,7 @@ images:
   - /wp-content/uploads/2021/07/16.61-sensor.jpg
   - /wp-content/uploads/2021/07/16.64-N.jpg
 ecoregion: "Tropical and subtropical grasslands, savannas and shrublands"
-summary: "Large area run in partnership with traditional owners (Wunambal Gaambera Aboriginal Corporation). Open Woodland with adjacent Monsoon Vine Thicket. Existing mammal monitoring sites (including nest boxes) with vegetation plots with 5+years data established under the Landscape Conservation Initiative. Kimberley Sugar Gliders have been recorded from a group of these sites."
+summary: "This large area is managed in partnership with Traditional Owners through the Wunambal Gaambera Aboriginal Corporation. It includes open woodland and adjacent monsoon vine thicket. Existing mammal-monitoring sites, including nest boxes, have vegetation plots with more than five years of data collected under the Landscape Conservation Initiative. Kimberley sugar gliders have been recorded at some of these sites."
 ---
 
 > **Access Site 16 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/16).**
@@ -26,6 +26,6 @@ summary: "Large area run in partnership with traditional owners (Wunambal Gaambe
 | Site location | Northern Western Australia |
 | Latitude | -14.630 |
 | Longitude | 125.797 |
-| Site description | Large area run in partnership with traditional owners (Wunambal Gaambera Aboriginal Corporation). Open Woodland with adjacent Monsoon Vine Thicket. Existing mammal monitoring sites (including nest boxes) with vegetation plots with 5+years data established under the Landscape Conservation Initiative. Kimberley Sugar Gliders have been recorded from a group of these sites. |
+| Site description | This large area is managed in partnership with Traditional Owners through the Wunambal Gaambera Aboriginal Corporation. It includes open woodland and adjacent monsoon vine thicket. Existing mammal-monitoring sites, including nest boxes, have vegetation plots with more than five years of data collected under the Landscape Conservation Initiative. Kimberley sugar gliders have been recorded at some of these sites. |
 
 {{< image-mosaic >}}

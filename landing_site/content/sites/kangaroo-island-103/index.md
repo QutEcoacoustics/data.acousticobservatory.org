@@ -8,7 +8,7 @@ point_ids:
   - 411
   - 412
 ecoregion: "Mediterranean forests, woodlands and scrubs"
-summary: "Kangaroo Island is a large island off the coast of South Australia dominated by woodland. Approximately half of the Kangaroo Island has never been cleared and a quarter of it is conserved. The island is home to an endangered subspecies of the glossy black cockatoo (Calyptorhynchus lathami halmaturinus)."
+summary: "Kangaroo Island is a large island off the coast of South Australia, dominated by woodland. Approximately half of the island has never been cleared, and a quarter is conserved. The island is home to an endangered subspecies of the glossy black cockatoo (Calyptorhynchus lathami halmaturinus)."
 ---
 
 > **Access Site 103 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/103).**
@@ -23,4 +23,4 @@ summary: "Kangaroo Island is a large island off the coast of South Australia dom
 | Site location | Coastal South Australia |
 | Latitude | -35.990 |
 | Longitude | 137.466 |
-| Site description | Kangaroo Island is a large island off the coast of South Australia dominated by woodland. Approximately half of the Kangaroo Island has never been cleared and a quarter of it is conserved. The island is home to an endangered subspecies of the glossy black cockatoo (Calyptorhynchus lathami halmaturinus). |
+| Site description | Kangaroo Island is a large island off the coast of South Australia, dominated by woodland. Approximately half of the island has never been cleared, and a quarter is conserved. The island is home to an endangered subspecies of the glossy black cockatoo (Calyptorhynchus lathami halmaturinus). |

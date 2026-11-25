@@ -4,7 +4,7 @@ url: "/deprecated-sites/"
 ---
 
 <!-- wp:paragraph -->
-<p>The following sites have been deprecated as they were officially decommissioned in 2024. These sites did not contain any data and have therefore been removed from the project:</p>
+<p>The following sites were decommissioned in 2024 because no data had been received from them. They have therefore been removed from the project:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -58,5 +58,5 @@ url: "/deprecated-sites/"
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Sites were deprecated in 2024 if we had not received any data from them. There were various reasons for this, but the most common were logistics issues or losing contact with staff that had moved on to new positions. If you feel like any of these deprecations were a mistake, please reach out to us.</p>
+<p>Sites were deprecated in 2024 if we had not received any data from them. There were various reasons, but the most common were logistical issues or losing contact with staff who had moved to new positions. If you think any of these sites were deprecated by mistake, please contact us.</p>
 <!-- /wp:paragraph -->

@@ -10,7 +10,7 @@ point_ids:
 images:
   - /wp-content/uploads/2021/07/IMG_2272.jpg
 ecoregion: "Deserts and xeric shrublands"
-summary: "Newhaven is a conservation reserve of approximately 261500 hectares in the Northern Territory. The reserve is jointly managed by the Australian Wildlife Conservancy and Birdlife Australia, and protects large expanses of mulga woodlands and spinifex sandplains. Newhaven are the traditional lands of the Ngalia-Warlpiri/Luritja people."
+summary: "Newhaven is a conservation reserve of approximately 261,500 hectares in the Northern Territory. The reserve is jointly managed by the Australian Wildlife Conservancy and BirdLife Australia, and protects large expanses of mulga woodlands and spinifex sandplains. The reserve lies on the traditional lands of the Ngalia-Warlpiri/Luritja people."
 ---
 
 > **Access Site 73 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/73).**
@@ -21,10 +21,10 @@ summary: "Newhaven is a conservation reserve of approximately 261500 hectares in
 | Site number | 73 |
 | Point numbers | [289 (Newhaven Wet A)](https://data.acousticobservatory.org/projects/1/regions/73/points/289), [290 (Newhaven Wet B)](https://data.acousticobservatory.org/projects/1/regions/73/points/290), [291 (Newhaven Dry B)](https://data.acousticobservatory.org/projects/1/regions/73/points/291), [292 (Newhaven Dry A)](https://data.acousticobservatory.org/projects/1/regions/73/points/292) |
 | Ecoregion | Deserts and xeric shrublands |
-| Participant and site owner | Australian Wildlife Conservancy and Birdlife Australia |
+| Participant and site owner | Australian Wildlife Conservancy and BirdLife Australia |
 | Site location | Central Australia |
 | Latitude | -22.733 |
 | Longitude | 131.152 |
-| Site description | Newhaven is a conservation reserve of approximately 261500 hectares in the Northern Territory. The reserve is jointly managed by the Australian Wildlife Conservancy and Birdlife Australia, and protects large expanses of mulga woodlands and spinifex sandplains. Newhaven are the traditional lands of the Ngalia-Warlpiri/Luritja people. |
+| Site description | Newhaven is a conservation reserve of approximately 261,500 hectares in the Northern Territory. The reserve is jointly managed by the Australian Wildlife Conservancy and BirdLife Australia, and protects large expanses of mulga woodlands and spinifex sandplains. The reserve lies on the traditional lands of the Ngalia-Warlpiri/Luritja people. |
 
 {{< image-mosaic >}}

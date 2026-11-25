@@ -4,7 +4,7 @@ url: "/data/"
 ---
 
 <!-- wp:paragraph -->
-<p>The data collected by the A2O are freely available to researchers, citizen scientists, and the general public. The data supports environmental science, including fauna survey and ecological assessment, cross-disciplinary research between ecologists, biologists and computer scientists, citizen science projects, call recogniser development, soundscape analyses, and the exploration of acoustic methods.</p>
+<p>The data collected by the A2O are freely available to researchers, citizen scientists and the general public. These data support environmental science, including fauna surveys and ecological assessments, cross-disciplinary research among ecologists, biologists and computer scientists, citizen science projects, call-recogniser development, soundscape analysis and the exploration of acoustic methods.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -12,7 +12,7 @@ url: "/data/"
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>You can <a href="/data/find-data/">find data</a> by site, ecoregion or participant. You can also <a href="https://data.acousticobservatory.org/regions">browse sites</a> and <a href="https://data.acousticobservatory.org/audio_recordings" data-type="URL" data-id="https://data.acousticobservatory.org/audio_recordings">audio recordings</a> without signing in. To participate in the analysis work you will need to log in or register for a new account on the <a href="https://data.acousticobservatory.org/">A2O data portal</a>. </p>
+<p>You can <a href="/data/find-data/">find data</a> by site, ecoregion or participant. You can also <a href="https://data.acousticobservatory.org/regions">browse sites</a> and <a href="https://data.acousticobservatory.org/audio_recordings" data-type="URL" data-id="https://data.acousticobservatory.org/audio_recordings">audio recordings</a> without signing in. To participate in the analysis, log in or register for an account on the <a href="https://data.acousticobservatory.org/">A2O data portal</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -24,7 +24,7 @@ url: "/data/"
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you have a snippet of audio you want to <a href="https://search.acousticobservatory.org/" data-type="link" data-id="https://search.acousticobservatory.org/">search</a> for, upload it to the search tool we'll search for things that sound like it!</p>
+<p>If you have an audio snippet you want to search for, <a href="https://search.acousticobservatory.org/" data-type="link" data-id="https://search.acousticobservatory.org/">upload it to the search tool</a>, and we’ll find sounds that are similar.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

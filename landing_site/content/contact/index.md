@@ -19,7 +19,7 @@ url: "/contact/"
     </label>
   </p>
   <p>
-    <label>Your organization
+    <label>Your organisation
       <input type="text" name="organization" required>
     </label>
   </p>
@@ -31,7 +31,7 @@ url: "/contact/"
   <p>
     <label class="contact-form__consent">
       <input type="checkbox" name="consent" value="yes">
-      I consent to a follow up email to gather necessary information
+      I consent to a follow-up email to gather necessary information.
     </label>
   </p>
   <p>

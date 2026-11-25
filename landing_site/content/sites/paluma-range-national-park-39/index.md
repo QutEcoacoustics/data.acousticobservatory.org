@@ -12,7 +12,7 @@ images:
   - /wp-content/uploads/2021/08/Wet-A_Sensor-rotated.jpg
   - /wp-content/uploads/2021/08/Wet-B_South-rotated.jpg
 ecoregion: "Tropical and subtropical moist broadleaf forests"
-summary: "Paluma Range National Park contains Jourama Falls, Crystal Creek and Lake Paluma. The park lies within the Paluma Important Bird Area (IBA)as it is a southern outlier for many species and contains a significant population of the vulnerable Southern Cassowary."
+summary: "Paluma Range National Park contains Jourama Falls, Crystal Creek and Lake Paluma. The park lies within the Paluma Important Bird Area (IBA), as it is a southern outlier for many species and contains a significant population of the vulnerable Southern Cassowary."
 ---
 
 > **Access Site 39 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/39).**
@@ -27,6 +27,6 @@ summary: "Paluma Range National Park contains Jourama Falls, Crystal Creek and L
 | Site location | Northern Coastal Queensland |
 | Latitude | -18.972 |
 | Longitude | 146.237 |
-| Site description | Paluma Range National Park contains Jourama Falls, Crystal Creek and Lake Paluma. The park lies within the Paluma Important Bird Area (IBA)as it is a southern outlier for many species and contains a significant population of the vulnerable Southern Cassowary. |
+| Site description | Paluma Range National Park contains Jourama Falls, Crystal Creek and Lake Paluma. The park lies within the Paluma Important Bird Area (IBA), as it is a southern outlier for many species and contains a significant population of the vulnerable Southern Cassowary. |
 
 {{< image-mosaic >}}

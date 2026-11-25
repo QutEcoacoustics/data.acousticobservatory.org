@@ -1,0 +1,12 @@
+@import "./design-system.css";
+@import "./home.css";
+@import "./typography.css";
+@import "./footer.css";
+
+/*
+ * Main CSS file
+ * Imports design system, home, typography, and footer styles
+ *
+ * This file is executed as a hugo template if you need to insert any
+ * values from the build.
+ */

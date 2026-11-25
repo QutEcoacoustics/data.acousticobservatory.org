@@ -15,7 +15,7 @@ images:
   - /wp-content/uploads/2021/08/IMG_1098-rotated.jpg
   - /wp-content/uploads/2021/08/IMG_1101-rotated.jpg
 ecoregion: "Temperate broadleaf and mixed forests"
-summary: "Cape Barren Island (truwana) is owned and managed by Traditional Owners. The island lies of the north-east coast of Tasmania, and has untouched wetlands and forested areas."
+summary: "Cape Barren Island (truwana) is owned and managed by Traditional Owners. The island lies off the north-east coast of Tasmania and has untouched wetlands and forested areas."
 ---
 
 > **Access Site 76 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/76).**
@@ -30,6 +30,6 @@ summary: "Cape Barren Island (truwana) is owned and managed by Traditional Owner
 | Site location | Bass Strait |
 | Latitude | -40.39 |
 | Longitude | 148.23 |
-| Site description | Cape Barren Island (truwana) is owned and managed by Traditional Owners. The island lies of the north-east coast of Tasmania, and has untouched wetlands and forested areas. |
+| Site description | Cape Barren Island (truwana) is owned and managed by Traditional Owners. The island lies off the north-east coast of Tasmania and has untouched wetlands and forested areas. |
 
 {{< image-mosaic >}}

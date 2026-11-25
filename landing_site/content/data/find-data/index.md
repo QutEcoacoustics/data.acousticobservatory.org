@@ -4,11 +4,11 @@ url: "/data/find-data/"
 ---
 
 <!-- wp:paragraph -->
-<p>The A2O provides data for hundreds of acoustic sensors across seven Australian ecoregions. The A2O data include acoustic recordings collected by site sensors as well as site information, such as vegetation cover, landform, disturbance and photopoints. These data are available for use under <a rel="noreferrer noopener" aria-label="CC BY 4.0 (opens in a new tab)" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> licence.</p>
+<p>The A2O provides data from hundreds of acoustic sensors across seven Australian ecoregions. The data include acoustic recordings collected by site sensors and site information, such as vegetation cover, landform, disturbance and photopoints. These data are available under the <a rel="noreferrer noopener" aria-label="CC BY 4.0 (opens in a new tab)" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> licence.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can find data by site, ecoregion or participant. You can also <a href="https://data.acousticobservatory.org/regions">browse sites</a> and <a href="https://data.acousticobservatory.org/audio_recordings">audio recordings</a> without signing in by selecting an option below. To participate in the analysis work you will need to log in or register for a new account on the <a href="https://data.acousticobservatory.org/">A2O data portal</a>.</p>
+<p>You can find data by site, ecoregion or participant. You can also <a href="https://data.acousticobservatory.org/regions">browse sites</a> and <a href="https://data.acousticobservatory.org/audio_recordings">audio recordings</a> without signing in by selecting an option below. To participate in the analysis, log in or register for an account on the <a href="https://data.acousticobservatory.org/">A2O data portal</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"20px"} -->
@@ -46,7 +46,7 @@ url: "/data/find-data/"
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background"><amp-fit-text layout="fixed-height" min-font-size="14" max-font-size="48" height="50">The A2O is a network to monitor biodiversity, which includes the collection and processing of data from  sites around Australia. While the data is freely available for use under a Creative Commons license, Attribution 4.0 International Licence, you will need to follow the <a rel="noreferrer noopener" href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><strong>CC By 4.0 licence</strong></a> terms and the A2O <strong><a href="/data/data-submission-and-usage-terms/">Data Submission and Usage Terms</a></strong>, which specify how to provide the attribution required under the licence.</amp-fit-text></p>
+<p class="has-very-light-gray-background-color has-background"><amp-fit-text layout="fixed-height" min-font-size="14" max-font-size="48" height="50">The A2O monitors biodiversity by collecting and processing data from sites around Australia. The data are freely available under the Creative Commons Attribution 4.0 International licence. You must follow the <a rel="noreferrer noopener" href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><strong>CC BY 4.0 licence</strong></a> terms and the A2O <strong><a href="/data/data-submission-and-usage-terms/">Data Submission and Usage Terms</a></strong>, which explain how to provide the required attribution.</amp-fit-text></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

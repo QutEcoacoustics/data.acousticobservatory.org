@@ -24,6 +24,6 @@ image_layout:
   - [[4]]
 ---
 
-Many thanks to the [Australian Wildlife Conservancy (AWC)](https://www.australianwildlife.org/) for participating in the A2O project! Acoustic sensors were deployed at [Bowra](/sites/bowra-65/) in Spring 2019 following rainfall across the region. Wildflowers were blooming and Buderigars (*Melopsittacus undulatus*) breeding in large numbers. Bowra Wildlife Sanctuary is an important reserve located near Cunnamulla in south-western Queensland, supporting many arid and semi-arid bird species.
+Many thanks to the [Australian Wildlife Conservancy (AWC)](https://www.australianwildlife.org/) for participating in the A2O project! Acoustic sensors were deployed at [Bowra](/sites/bowra-65/) in spring 2019 following rainfall across the region. Wildflowers were blooming, and budgerigars (*Melopsittacus undulatus*) were breeding in large numbers. Bowra Wildlife Sanctuary is an important reserve near Cunnamulla in south-western Queensland, supporting many arid and semi-arid bird species.
 
 {{< image-mosaic >}}

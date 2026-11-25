@@ -3,9 +3,9 @@ title: "Team"
 url: "/team/"
 ---
 
-<p>The A2O is run by five Chief Investigator Managers from a number of Australian universities. They coordinate site selection, relationships with land owners and land managers, and the involvement of affiliated Chief Investigators who are specialists in various ecological fields.</p>
+<p>The A2O is led by five Chief Investigator Managers from Australian universities. They coordinate site selection, relationships with landowners and land managers, and the involvement of affiliated Chief Investigators who specialise in various ecological fields.</p>
 
-<p>The A2O Chief Investigators have a deep understanding of Australia’s fragile and mega-diverse environment, and the collection and interpretation of acoustic data, providing leading research expertise in this emerging field.</p>
+<p>The A2O Chief Investigators bring deep expertise in Australia’s fragile, megadiverse environment and in the collection and interpretation of acoustic data.</p>
 
 <h2>A2O Chief Investigator Managers</h2>
 

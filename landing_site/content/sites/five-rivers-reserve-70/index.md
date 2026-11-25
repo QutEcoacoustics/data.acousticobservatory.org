@@ -10,7 +10,7 @@ point_ids:
 images:
   - /wp-content/uploads/2019/10/Five-Rivers-Wet-A_360-degrees_adjusted-1_dt.jpg
 ecoregion: "Temperate broadleaf and mixed forests"
-summary: "The Tasmanian Land Conservancy's Fiver Rivers Reserve protects 11000 hectares of open grassland valleys, old-growth forests and woodlands, native grasslands, endangered sphagnum moss beds, and five river systems: the Nive, Serpentine, Pine, Little Pine and Little Rivers. Five Rivers Reserve provides habitat for a number of endangered species endemic to Tasmania. The site's dry sensors are established in tall eucalypt forest dominated by Alpine Ash (Eucalyptus delegatensis) and Snow Gum (Eucalyptus pauciflora). Fiver Rivers Reserve's wet sensors are located along the banks of the Nive River among Alpine Ash and Cider Gum (Eucalyptus gunnii) open forest and woodland."
+summary: "The Tasmanian Land Conservancy's Five Rivers Reserve protects 11,000 hectares of open grassland valleys, old-growth forests and woodlands, native grasslands, endangered sphagnum moss beds, and five river systems: the Nive, Serpentine, Pine, Little Pine and Little Rivers. Five Rivers Reserve provides habitat for several endangered species endemic to Tasmania. The site's dry sensors are established in tall eucalypt forest dominated by Alpine Ash (Eucalyptus delegatensis) and Snow Gum (Eucalyptus pauciflora). The wet sensors are located along the banks of the Nive River among Alpine Ash and Cider Gum (Eucalyptus gunnii) open forest and woodland."
 ---
 
 > **Access Site 70 data on [A2O data portal](https://data.acousticobservatory.org/projects/1/regions/70).**
@@ -25,6 +25,6 @@ summary: "The Tasmanian Land Conservancy's Fiver Rivers Reserve protects 11000 h
 | Site location | Central Tasmanian Highlands |
 | Latitude | -42.104 |
 | Longitude | 146.502 |
-| Site description | The Tasmanian Land Conservancy's Fiver Rivers Reserve protects 11000 hectares of open grassland valleys, old-growth forests and woodlands, native grasslands, endangered sphagnum moss beds, and five river systems: the Nive, Serpentine, Pine, Little Pine and Little Rivers. Five Rivers Reserve provides habitat for a number of endangered species endemic to Tasmania. The site's dry sensors are established in tall eucalypt forest dominated by Alpine Ash (Eucalyptus delegatensis) and Snow Gum (Eucalyptus pauciflora). Fiver Rivers Reserve's wet sensors are located along the banks of the Nive River among Alpine Ash and Cider Gum (Eucalyptus gunnii) open forest and woodland. |
+| Site description | The Tasmanian Land Conservancy's Five Rivers Reserve protects 11,000 hectares of open grassland valleys, old-growth forests and woodlands, native grasslands, endangered sphagnum moss beds, and five river systems: the Nive, Serpentine, Pine, Little Pine and Little Rivers. Five Rivers Reserve provides habitat for several endangered species endemic to Tasmania. The site's dry sensors are established in tall eucalypt forest dominated by Alpine Ash (Eucalyptus delegatensis) and Snow Gum (Eucalyptus pauciflora). The wet sensors are located along the banks of the Nive River among Alpine Ash and Cider Gum (Eucalyptus gunnii) open forest and woodland. |
 
 {{< image-mosaic >}}

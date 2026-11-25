@@ -33,6 +33,6 @@ ecoregions:
     description: "Worldwide, tropical and subtropical moist broadleaf forests grow in large, discontinuous patches along the equator and between the Tropics of Cancer and Capricorn. This ecoregion is defined by high levels of annual rainfall greater than 2000 mm, and low temperature variability. Semi-evergreen and evergreen deciduous tree species dominate. Australian examples of this ecoregion are generally confined to far north Queensland, and exhibit high levels of floristic and faunal endemism."
 ---
 
-The World Wildlife Fund defines an ecoregion as a large unit of land or water containing a geographically distinct assemblage of species, natural communities, and environmental conditions. Australia broadly represents seven of the 14 recognised global terrestrial ecoregions, which have guided A2O site selection at a landscape scale.
+The World Wildlife Fund defines an ecoregion as a large unit of land or water containing a geographically distinct assemblage of species, natural communities and environmental conditions. Australia broadly represents seven of the 14 recognised global terrestrial ecoregions, which have guided A2O site selection at a landscape scale.
 
 ## View A2O sites by ecoregion
