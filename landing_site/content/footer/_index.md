@@ -40,7 +40,7 @@ quicklinks:
   - label: Find data
     href: /data/find-data/
   - label: A2O data portal
-    href: https://data.acousticobservatory.org/
+    href: https://data.acousticobservatory.org/regions
   - label: Terms of Use
     href: /data/data-submission-and-usage-terms/
   - label: Contact A2O

@@ -12,7 +12,7 @@ url: "/data/"
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>You can <a href="/data/find-data/">find data</a> by site, ecoregion or participant. You can also <a href="https://data.acousticobservatory.org/regions">browse sites</a> and <a href="https://data.acousticobservatory.org/audio_recordings" data-type="URL" data-id="https://data.acousticobservatory.org/audio_recordings">audio recordings</a> without signing in. To participate in the analysis, log in or register for an account on the <a href="https://data.acousticobservatory.org/">A2O data portal</a>.</p>
+<p>You can <a href="/data/find-data/">find data</a> by site, ecoregion or participant. You can also <a href="https://data.acousticobservatory.org/regions">browse sites</a> and <a href="https://data.acousticobservatory.org/audio_recordings" data-type="URL" data-id="https://data.acousticobservatory.org/audio_recordings">audio recordings</a> without signing in. To participate in the analysis, log in or register for an account on the <a href="https://data.acousticobservatory.org/regions">A2O data portal</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
