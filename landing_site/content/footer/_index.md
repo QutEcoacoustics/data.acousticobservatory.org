@@ -60,7 +60,7 @@ supporters:
     href: https://www.education.gov.au/ncris
     image: /images/ncris_logo.svg
     logo_shape: compact
-relationship: The Australian Acoustic Observatory is powered by the Open Ecoacoustics platform.
+relationship: The Australian Acoustic Observatory is powered by the Open Ecoacoustics platform and TERN Ecosystem Processes network.
 community:
   title: Join the Open Ecoacoustics Community
   description: Whether you're a researcher, land manager, student, or wildlife enthusiast, Open Ecoacoustics has something for you. Join the mailing list for regular updates.
